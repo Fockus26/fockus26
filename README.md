@@ -3,15 +3,15 @@
   <p><em>Full-Stack Developer | Web, Mobile & Automation | React, Node.js, Flutter</em></p>
 </div>
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
-I'm a **software developer** with 2+ years of experience building **web applications, mobile apps, APIs, and automation tools**.  
+I'm a **software developer** with 2+ years of experience building **web applications, mobile apps, APIs, and automation tools**.
 
-I’ve worked with **freelance clients** and **private companies**, creating solutions from **WordPress customizations** to **React e-commerce platforms**, **Flutter mobile apps**, and **Python/Node.js APIs**.  
+I’ve worked with **freelance clients** and **private companies**, creating solutions from **WordPress customizations** to **React e-commerce platforms**, **Flutter mobile apps**, and **Python/Node.js APIs**.
 
-I’m passionate about **problem-solving, automation, and building scalable applications** that make an impact.  
+I’m passionate about **problem-solving, automation, and building scalable applications** that make an impact.
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -24,18 +24,18 @@ I’m passionate about **problem-solving, automation, and building scalable appl
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 </p>
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🎟️ BotTickets – Web Automation</h3>
+<h3 align="center">🎟️ Bot Tickets – Web Automation</h3>
 <div align="center">
-<a href="https://github.com/Fockus26/BotTickets-CaseStudy" target="_blank">
-<img src="https://via.placeholder.com/400x200.png?text=BotTickets+Preview" width="400" alt="BotTickets preview"/>
+<a href="https://github.com/Fockus26/Bot-Tickets-Case-Study" target="_blank">
+<img src="./assets/Bot Tickets.png" width="400" alt="BotTickets preview"/>
 </a>
 <p>
-<a href="https://github.com/Fockus26/BotTickets-CaseStudy" target="_blank">
+<a href="https://github.com/Fockus26/Bot-Tickets-Case-Study" target="_blank">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
@@ -46,11 +46,11 @@ I’m passionate about **problem-solving, automation, and building scalable appl
 <td width="50%">
 <h3 align="center">🛒 DonKampo – React E-commerce</h3>
 <div align="center">
-<a href="https://github.com/Fockus26/DonKampo-CaseStudy" target="_blank">
-<img src="https://via.placeholder.com/400x200.png?text=DonKampo+Preview" width="400" alt="DonKampo preview"/>
+<a href="https://github.com/Fockus26/DonKampo-Case-Study" target="_blank">
+<img src="./assets/DonKampo.png" width="400" alt="DonKampo preview"/>
 </a>
 <p>
-<a href="https://github.com/Fockus26/DonKampo-CaseStudy" target="_blank">
+<a href="https://github.com/Fockus26/DonKampo-Case-Study" target="_blank">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
@@ -65,11 +65,11 @@ I’m passionate about **problem-solving, automation, and building scalable appl
 <td width="50%">
 <h3 align="center">🔌 WordPress Plugin Customization</h3>
 <div align="center">
-<a href="https://github.com/Fockus26/InversionesJL22-CaseStudy" target="_blank">
-<img src="https://via.placeholder.com/400x200.png?text=WordPress+Preview" width="400" alt="WordPress preview"/>
+<a href="https://github.com/Fockus26/InversionesJL22-Case-Study" target="_blank">
+<img src="./assets/InversionesJL22.png" width="400" alt="WordPress preview"/>
 </a>
 <p>
-<a href="https://github.com/Fockus26/InversionesJL22-CaseStudy" target="_blank">
+<a href="https://github.com/Fockus26/InversionesJL22-Case-Study" target="_blank">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
@@ -80,11 +80,11 @@ I’m passionate about **problem-solving, automation, and building scalable appl
 <td width="50%">
 <h3 align="center">📱 La Nación Radio – Flutter App</h3>
 <div align="center">
-<a href="https://github.com/Fockus26/La-Nacion-Radio-Mobile-App-CaseStudy" target="_blank">
-<img src="https://via.placeholder.com/400x200.png?text=Mobile+App+Preview" width="400" alt="Flutter app preview"/>
+<a href="https://github.com/Fockus26/La-Nacion-Radio-Mobile-App-Case-Study" target="_blank">
+<img src="./assets/La Nacion Radio.png" width="400" alt="Flutter app preview"/>
 </a>
 <p>
-<a href="https://github.com/Fockus26/La-Nacion-Radio-Mobile-App-CaseStudy" target="_blank">
+<a href="https://github.com/Fockus26/La-Nacion-Radio-Mobile-App-Case-Study" target="_blank">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
@@ -94,8 +94,7 @@ I’m passionate about **problem-solving, automation, and building scalable appl
 </tr>
 </table>
 
-
-## 📬 Contact  
+## 📬 Contact
 
 <a href="https://mail.google.com/mail/?view=cm&to=alejandrorey2654@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/cesaraleonr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
