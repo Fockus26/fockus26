@@ -1,15 +1,16 @@
 <div align="center">
   <h1>Hi, I'm Cesar 👋</h1>
-  <p><em>Full-Stack Developer | Web, Mobile & Automation | React, Node.js, Flutter</em></p>
+  <p><em>Full-Stack Developer | Web, Mobile & Automation | PHP, JavaScript, Flutter, Python</em></p>
 </div>
 
 ## 👨‍💻 About Me
 
-I'm a **software developer** with 2+ years of experience building **web applications, mobile apps, APIs, and automation tools**.
+I'm a **Full Stack Developer** with over **2 years of experience** building **web applications, mobile apps, APIs, and automation systems**.  
+I specialize in **PHP (Laravel, Symfony)**, **React**, **Flutter**, and **Python**, creating scalable and efficient solutions that optimize performance and reduce manual work by up to **80%**.
 
-I’ve worked with **freelance clients** and **private companies**, creating solutions from **WordPress customizations** to **React e-commerce platforms**, **Flutter mobile apps**, and **Python/Node.js APIs**.
+I've collaborated with **international clients and private companies**, delivering projects ranging from **WordPress plugin development** to **React e-commerce platforms** and **automation bots** for complex workflows.
 
-I’m passionate about **problem-solving, automation, and building scalable applications** that make an impact.
+I'm passionate about **problem-solving, clean architecture, and automation**, always focused on building software that improves real-world processes.
 
 ## 🛠️ Tech Stack
 
@@ -21,6 +22,7 @@ I’m passionate about **problem-solving, automation, and building scalable appl
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 </p>
 
